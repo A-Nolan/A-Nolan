@@ -17,4 +17,11 @@
 <img align="left" title="kubernetes" alt="kubernetes" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" title="git" alt="git" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" title="vscode" alt="vscode" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" title="vscode" alt="vscode" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img title="figma" alt="figma" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<br />
+
+---
+
+### GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-nolan&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
